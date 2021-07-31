@@ -1,38 +1,38 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Satyam Soni",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
+		"email": "2018kucp1121@iiitkota.ac.in",
+		"phone": "6387363138",
+		"website": "http://satyamsoni23.github.io/",
 		"summary": "---Tell Something about yourself ---",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "Sarnath",
+			"postalCode": "221007",
+			"city": "Varanasi",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Uttar Pradesh"
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"username": "SatyamSoni23",
+				"url": "https://www.twitter.com/SatyamSoni23"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "SatyamSoni23",
+				"url": "https://www.github.com/SatyamSoni23/"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"username": "satyam-soni-332522172",
+				"url": "https://www.linkedin.com/in/satyam-soni-332522172/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"username": "satyam__soni1",
+				"url": "https://instagram.com/satyam__soni1"
 			}
 		]
 	},
@@ -59,8 +59,8 @@
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"endDate": "2018-05-31",
+		"gpa": "8.13",
 		"courses": [
 			"Computer Science & Engineering"
 		]
