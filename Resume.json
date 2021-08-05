@@ -2,11 +2,11 @@
 	"basics": {
 		"name": "Satyam Soni",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
+		"picture": "https://satyamsoni23.github.io/images/profilepic.jpg",
 		"email": "2018kucp1121@iiitkota.ac.in",
 		"phone": "6387363138",
 		"website": "http://satyamsoni23.github.io/",
-		"summary": "---Tell Something about yourself ---",
+		"summary": "I am a Computer Science Student at the Indian Institute of Information Technology Kota. I love building new things - starting from a blank whiteboard or early-stage prototype and transforming it into something people truly value. Let's start scrolling and learn more about me",
 		"location": {
 			"address": "Sarnath",
 			"postalCode": "221007",
@@ -59,7 +59,7 @@
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2018-04-08 //Date",
-		"endDate": "2018-05-31",
+		"endDate": "2022-05-31",
 		"gpa": "8.13",
 		"courses": [
 			"Computer Science & Engineering"
@@ -77,11 +77,11 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["C/C++/Java", "HTML/CSS/Javascript/PHP", "Android", "OpenCV", "Transformer", "Bert"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["Cricket", "Badminton"]
 	}],
 	"references": []
 }
